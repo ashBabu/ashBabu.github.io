@@ -2075,8 +2075,8 @@ button,
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
-  border-bottom: solid 5px #f56a6a;
-  padding: 6em 0 1em 0;
+  border-bottom: solid 2px #f56a6a;
+  /* padding: 6em 0 1em 0; */
   position: relative; }
   #header > * {
     -moz-flex: 1;
@@ -2284,4 +2284,8 @@ button,
   height: 250px;
   margin-top: -7px;
   margin-right:  48px;
+}
+mark {
+  background-color: yellow;
+  color: black;
 }
