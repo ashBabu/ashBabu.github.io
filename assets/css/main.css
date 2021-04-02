@@ -2285,7 +2285,18 @@ button,
   margin-top: -7px;
   margin-right:  48px;
 }
-mark {
-  background-color: yellow;
-  color: black;
+
+.entry-content table {
+font-size: 100%;
+color: #444444;
+border-bottom: none;
+margin: 0;
+}
+.entry-content td {
+vertical-align: top;
+border-top: none;
+}
+#videotd {
+width: 310px;
+padding-right: 20px;
 }
